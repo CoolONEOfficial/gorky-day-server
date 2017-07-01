@@ -1,0 +1,10 @@
+{
+	"require":
+	{
+		"google/recaptcha": "@stable", 	
+		"pear/mail": "@stable",
+		"pear/net_smtp": "@stable",
+		"pear/mail_mime": "@stable",
+		"usmanhalalit/pixie": "@stable"
+	}
+}
